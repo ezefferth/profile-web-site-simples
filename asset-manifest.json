@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/profile-web-site-simples.git/static/css/main.96b261bb.chunk.css",
-    "main.js": "/profile-web-site-simples.git/static/js/main.bb0eb0da.chunk.js",
-    "main.js.map": "/profile-web-site-simples.git/static/js/main.bb0eb0da.chunk.js.map",
-    "runtime-main.js": "/profile-web-site-simples.git/static/js/runtime-main.5725a3d7.js",
-    "runtime-main.js.map": "/profile-web-site-simples.git/static/js/runtime-main.5725a3d7.js.map",
-    "static/js/2.925bcc59.chunk.js": "/profile-web-site-simples.git/static/js/2.925bcc59.chunk.js",
-    "static/js/2.925bcc59.chunk.js.map": "/profile-web-site-simples.git/static/js/2.925bcc59.chunk.js.map",
-    "index.html": "/profile-web-site-simples.git/index.html",
-    "precache-manifest.fe6f1c03b3fb1de9dc98f32ec7744254.js": "/profile-web-site-simples.git/precache-manifest.fe6f1c03b3fb1de9dc98f32ec7744254.js",
-    "service-worker.js": "/profile-web-site-simples.git/service-worker.js",
-    "static/css/main.96b261bb.chunk.css.map": "/profile-web-site-simples.git/static/css/main.96b261bb.chunk.css.map",
-    "static/js/2.925bcc59.chunk.js.LICENSE.txt": "/profile-web-site-simples.git/static/js/2.925bcc59.chunk.js.LICENSE.txt",
-    "static/media/jumbotron.css": "/profile-web-site-simples.git/static/media/Trees-road.53e042bc.jpg"
+    "main.css": "/profile-web-site-simples/static/css/main.34d01557.chunk.css",
+    "main.js": "/profile-web-site-simples/static/js/main.6fd8d059.chunk.js",
+    "main.js.map": "/profile-web-site-simples/static/js/main.6fd8d059.chunk.js.map",
+    "runtime-main.js": "/profile-web-site-simples/static/js/runtime-main.a9b6e9e4.js",
+    "runtime-main.js.map": "/profile-web-site-simples/static/js/runtime-main.a9b6e9e4.js.map",
+    "static/js/2.925bcc59.chunk.js": "/profile-web-site-simples/static/js/2.925bcc59.chunk.js",
+    "static/js/2.925bcc59.chunk.js.map": "/profile-web-site-simples/static/js/2.925bcc59.chunk.js.map",
+    "index.html": "/profile-web-site-simples/index.html",
+    "precache-manifest.211cafe14786463184bc7e605dba0d48.js": "/profile-web-site-simples/precache-manifest.211cafe14786463184bc7e605dba0d48.js",
+    "service-worker.js": "/profile-web-site-simples/service-worker.js",
+    "static/css/main.34d01557.chunk.css.map": "/profile-web-site-simples/static/css/main.34d01557.chunk.css.map",
+    "static/js/2.925bcc59.chunk.js.LICENSE.txt": "/profile-web-site-simples/static/js/2.925bcc59.chunk.js.LICENSE.txt",
+    "static/media/jumbotron.css": "/profile-web-site-simples/static/media/Trees-road.53e042bc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5725a3d7.js",
+    "static/js/runtime-main.a9b6e9e4.js",
     "static/js/2.925bcc59.chunk.js",
-    "static/css/main.96b261bb.chunk.css",
-    "static/js/main.bb0eb0da.chunk.js"
+    "static/css/main.34d01557.chunk.css",
+    "static/js/main.6fd8d059.chunk.js"
   ]
 }
