@@ -25,7 +25,10 @@ class Navbar extends Component {
                 </button>
                 <div class="collapse navbar-collapse" id="navbarsExampleDefault" className='container'>
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item active">
+                        <li class="nav-item">
+                            <Link class="nav-link" to="/">Blog<span class="sr-only">(current)</span></Link>
+                        </li>
+                        <li class="nav-item">
                             <Link class="nav-link" to="/Sobre">Sobre<span class="sr-only">(current)</span></Link>
                         </li>
                         <li class="nav-item">

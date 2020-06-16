@@ -16,8 +16,11 @@ class Sobre extends Component {
                             Sobre
                         </h2>
                         <p>
-                            Estudante de Engenharia da Computação pela Univeridade Federal de Mato Grosso, Câmpus de Várzea Grande. Atuo na área 
-                            de desenvolvimento Web com React e Mobile com React Native, Progamação em Arduino. Manutenção de computadores
+                            Ezéfferth Chlysman, Estudante de Engenharia da Computação pela Univeridade Federal de Mato Grosso, Câmpus de Várzea Grande. Atuo na área 
+                            de desenvolvimento Web com ReactJS e Mobile com React Native, Progamação em Arduino,
+                             Domínio da linguagem C, intermediário em Python. Em aprendizado
+                             desenvolvimento Desktop C#/Java e redes de computadores assim como servidores. Manutenção de computadores.
+                             Apaixonado no mundo dos Games como seu desenvolvimento. Streamer nas horas vagas.
                         </p>
                     </div>
                 <Footer/>
